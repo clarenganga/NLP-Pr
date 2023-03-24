@@ -1,7 +1,7 @@
 Language Identifier
 This is a simple language detector/identifier program that takes a text input and predicts the language of the text.
 
-REQUIREMENTS
+Requirements
 The following dependencies are required to run the program:
   Python 3.x
   langdetect library
@@ -9,11 +9,11 @@ The following dependencies are required to run the program:
   numpy library
   gradio library
   
-INSTALLATION
+Installation
 To install the dependencies, you can use pip:
   pip install langdetect scikit-learn numpy gradio
   
-USAGE
+Usage
 To use the language detector/identifier program, run the following command in the terminal:
   python language_detector.py
 This will start the program and open a web browser with the Gradio user interface. You can enter a text input and the program will predict the language of the text.
