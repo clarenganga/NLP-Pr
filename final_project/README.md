@@ -9,6 +9,8 @@ The following dependencies are required to run the program:
   numpy library
   gradio library
   
+  lang_dataset.csv: (Link to file in Google Drive) https://drive.google.com/file/d/1YQ8dOVXudSL7YpP6uk7rF_Ju5Hj2ypy8/view?usp=share_link
+  
 Installation: 
 To install the dependencies, you can use pip:
   pip install langdetect scikit-learn numpy gradio
